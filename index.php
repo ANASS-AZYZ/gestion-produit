@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
-    <title>تسجيل الدخول</title>
+    <title>LOGIN</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -89,7 +89,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </form>
 
     <p class="text-center mt-3">
-        ليس لديك حساب؟ <a href="register.php" style="color:#00bcd4;">Créer un compte</a>
+    VOTRE COMPTE ET NOM RECUE <a href="register.php" style="color:#00bcd4;">Créer un compte</a>
     </p>
 </div>
 
